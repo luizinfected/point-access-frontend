@@ -1,4 +1,4 @@
-# Ilumeo - Sistema de Ponto
+# Point Access - Sistema de Ponto
 
 ---
 
@@ -14,11 +14,11 @@
 #### Usando Docker:
 
 ```bash
-git clone git@github.com:luizinfected/ilumeo-frontend.git
-cd ilumeo-frontend
+git clone git@github.com:luizinfected/point-access-frontend.git
+cd point-access-frontend
 
-docker build -t ilumeo-frontend .
-docker run -p 4173:4173 ilumeo-frontend
+docker build -t point-access-frontend .
+docker run -p 4173:4173 point-access-frontend
 ```
 
 Acesse via: [http://localhost:4173](http://localhost:4173)
@@ -45,15 +45,3 @@ npm run test
 ```
 
 ---
-
-## Extras
-
-- Um usuário de demonstração já está criado na base com dados de exemplo.
-- Código do usuário: usuario123
-
----
-
-## Produção
-
-- **Front-end:** https://ilumeo-frontend-liard.vercel.app  
-- **Back-end:** https://ilumeo-backend-ggxn.onrender.com
