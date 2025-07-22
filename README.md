@@ -26,8 +26,8 @@ Acesse via: [http://localhost:4173](http://localhost:4173)
 ####  Usando npm:
 
 ```bash
-git clone git@github.com:luizinfected/ilumeo-frontend.git
-cd ilumeo-frontend
+git clone git@github.com:luizinfected/point-access-frontend.git
+cd point-access-frontend
 
 npm install
 npm run dev
